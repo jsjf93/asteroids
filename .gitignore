@@ -9,5 +9,6 @@ wheels/
 # Virtual environments
 .venv
 
+game_events.jsonl
 game_state.jsonl
 .DS_Store
